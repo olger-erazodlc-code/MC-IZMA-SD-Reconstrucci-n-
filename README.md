@@ -8,9 +8,11 @@ Los códigos sin modificación de Shabat y Averbuch se encuentran en: https://la
 <center>Figura 1. Bloques de programación del algoritmo MC IZMA_SD, etapa de reconstrucción</center>
 
 Desarrollado por:  Olger Ferledy Erazo De La Cruz
+<br>
 Grupo de Investigación en Nuevas Tecnologías de Telecomunicaciones
+<br>
 Colombia - Universidad del Cauca - 2020. 
-
+<br>
 <center/>
 <div style="text-align:center;"> 
 <table style="margin: 0 auto;">
