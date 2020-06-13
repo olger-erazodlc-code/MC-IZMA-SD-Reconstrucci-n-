@@ -6,8 +6,11 @@ Encuentra los códigos desarrollados en MATLAB por Shabat y Averbuch, “Interes
 <img src="https://devicenar.com/wp/wp-content/uploads/2020/06/diagrama_flujo_script_izma_sd_solo_reconstruye_no_automatico.png">
 
 Desarrollado por:  Olger Erazo De La Cruz
+<br>
 Grupo de Investigación en Nuevas Tecnologías de Telecomunicaciones
+<br>
 Universidad del Cauca - 2020. 
+<br>
 <center>
 <div style="text-align:center;"> 
 <table style="margin: 0 auto;">
@@ -21,5 +24,5 @@ Universidad del Cauca - 2020.
 </tr>
 </table>
 </center>
-  </div>
+ </div>
 <hr>
