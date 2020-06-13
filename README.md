@@ -6,7 +6,8 @@ Encuentra los códigos desarrollados en MATLAB por Shabat y Averbuch, “Interes
 Los códigos sin modificación de Shabat y Averbuch se encuentran en: https://la.mathworks.com/matlabcentral/fileexchange/50056-matrix-completion-using-nuclear-norm-spectral-norm-or-weighted-nuclear-norm-minimization
 <img src="https://devicenar.com/wp/wp-content/uploads/2020/06/diagrama_flujo_script_izma_sd_solo_reconstruye_no_automatico.png">
 <center>Figura 1. Bloques de programación del algoritmo MC IZMA_SD, etapa de reconstrucción</center>
-
+<br>
+<br>
 Desarrollado por:  Olger Ferledy Erazo De La Cruz
 <br>
 Grupo de Investigación en Nuevas Tecnologías de Telecomunicaciones
